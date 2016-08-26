@@ -1,5 +1,5 @@
 # Chatt-on
-A simple implementation of node Js and socket.io To create a simple n way chatt application
+A simple implementation of node Js and socket.io To create a simple n way chat application
 Running the demo
 
 To get it running:
